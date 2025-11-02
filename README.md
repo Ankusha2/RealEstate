@@ -21,7 +21,9 @@ It features a clean layout, smooth navigation, and a functional contact form tha
 
 
 🛠 **TECH STACK**
+
 HTML • React JS • Tailwind CSS
 
 🚀 **LIVE DEMO**
+
 🔗 [View Website](https://ankusha2.github.io/RealEstate/)  
