@@ -1,12 +1,18 @@
-# React + Vite
+🏡 **RealEstate Website**
+A modern, responsive real estate website built using React.js and Tailwind CSS.
+It features a clean layout, smooth navigation, and a functional contact form that sends user data directly to email.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 **Features**
+🏠 Home Page – Beautiful home section with call-to-action buttons
+ℹ️ About Page – Overview of the platform and services
+🏗 Projects Page – Showcases real estate projects or listings
+💬 Testimonials Page – Displays client feedback
+✉️ Contact Page – Email-integrated contact form
+📱 Fully Responsive – Optimized for all devices
+⚡ Fast, Smooth & User-Friendly – Built with reusable React components
 
-Currently, two official plugins are available:
+🛠 **Tech Stack**
+HTML • React JS • Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 **Live Demo**
+🔗 [View Website](https://ankusha2.github.io/RealEstate/)  
